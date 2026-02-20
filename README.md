@@ -1,2 +1,2 @@
 # SQL
-this is a basic SQL
+ basic SQL
